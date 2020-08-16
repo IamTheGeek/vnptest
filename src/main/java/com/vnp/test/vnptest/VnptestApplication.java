@@ -10,6 +10,7 @@ public class VnptestApplication {
 		SpringApplication.run(VnptestApplication.class, args);
 		System.out.println("Checkin-1");
 		System.out.println("Checkin-2");
+		System.out.println("Checkin-3 to feature branch");
 	}
 
 }
