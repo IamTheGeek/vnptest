@@ -14,6 +14,7 @@ public class VnptestApplication {
 		System.out.println("Checkin-4 to feature-2 branch");
 		System.out.println("Checkin-5 to feature-2 branch");
 		System.out.println("Checkin-6 to feature-2 branch");
+		System.out.println("Checkin-7 to feature-2 branch");
 
 	}
 
